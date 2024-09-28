@@ -17,7 +17,6 @@ namespace GLaDOSOS
     {
         string cwd = @"0:\";
         char mode = '\0';
-        //TODO: Implement login; DON'T SLEEP ON THIS!
         string usn = "user";
         string addr = "";
         CosmosVFS cVFS = new CosmosVFS();
